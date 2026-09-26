@@ -1,7 +1,6 @@
 anextratouch.configgui.title=An Extra Touch 配置
 
 # Config menus
-
 anextratouch.configgui.menu.entity_effects=实体效果
 anextratouch.configgui.menu.entity_effects.cold_breath_entities_and_position=寒气呼吸：实体与位置
 anextratouch.configgui.menu.entity_effects.cold_breath_climate=寒气呼吸：气候
@@ -52,7 +51,6 @@ anextratouch.configgui.menu.gameplay.grass_and_plant_trampling=草与植物踩�
 anextratouch.configgui.menu.debug=调试
 
 # Keybindings
-
 key.anextratouch.free_look=自由视角
 key.categories.anextratouch=An Extra Touch
 
