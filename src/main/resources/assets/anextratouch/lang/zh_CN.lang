@@ -1,0 +1,58 @@
+anextratouch.configgui.title=An Extra Touch 配置
+
+# Config menus
+
+anextratouch.configgui.menu.entity_effects=实体效果
+anextratouch.configgui.menu.entity_effects.cold_breath_entities_and_position=寒气呼吸：实体与位置
+anextratouch.configgui.menu.entity_effects.cold_breath_climate=寒气呼吸：气候
+anextratouch.configgui.menu.entity_effects.wetness=潮湿效果
+anextratouch.configgui.menu.sounds=声音
+anextratouch.configgui.menu.sounds.thunder=雷声
+anextratouch.configgui.menu.sounds.items=物品声音
+anextratouch.configgui.menu.sounds.items.swing=挥动声音
+anextratouch.configgui.menu.sounds.items.equip=物品选取
+anextratouch.configgui.menu.sounds.items.bow=弓弦声音
+anextratouch.configgui.menu.sounds.items.matching=物品类别与附近实体
+anextratouch.configgui.menu.sounds.armor=盔甲装备声音
+anextratouch.configgui.menu.sounds.dynamic_surroundings=Dynamic Surroundings
+anextratouch.configgui.menu.water_effects=水体效果
+anextratouch.configgui.menu.water_effects.entry_splashes=入水飞溅
+anextratouch.configgui.menu.water_effects.waterfalls=瀑布
+anextratouch.configgui.menu.water_effects.underwater_chests=水下箱子
+anextratouch.configgui.menu.water_effects.rain_and_drip_ripples=雨滴与滴水涟漪
+anextratouch.configgui.menu.water_effects.wakes_and_swimming_ripples=航迹与游泳涟漪
+anextratouch.configgui.menu.water_effects.fluid_filters=流体过滤器
+anextratouch.configgui.menu.coastal_waves=海岸波浪
+anextratouch.configgui.menu.coastal_waves.spawning_and_size=生成与大小
+anextratouch.configgui.menu.coastal_waves.breaking_sounds=碎浪声音
+anextratouch.configgui.menu.coastal_waves.biomes=生物群系
+anextratouch.configgui.menu.steam_and_lava=蒸汽与熔岩
+anextratouch.configgui.menu.steam_and_lava.steam=蒸汽
+anextratouch.configgui.menu.steam_and_lava.lava_jets=熔岩喷流
+anextratouch.configgui.menu.steam_and_lava.range_and_limits=范围与限制
+anextratouch.configgui.menu.camera_overhaul=摄像机重制
+anextratouch.configgui.menu.camera_overhaul.general_camera_behavior=摄像机常规行为
+anextratouch.configgui.menu.camera_overhaul.turning_roll=转向侧倾
+anextratouch.configgui.menu.camera_overhaul.idle_sway=待机晃动
+anextratouch.configgui.menu.camera_overhaul.falling_through_the_air=空中下落
+anextratouch.configgui.menu.camera_overhaul.event_shakes=事件震动
+anextratouch.configgui.menu.camera_overhaul.landing_impacts=着陆冲击
+anextratouch.configgui.menu.camera_overhaul.walking=行走
+anextratouch.configgui.menu.camera_overhaul.elytra_flight=鞘翅飞行
+anextratouch.configgui.menu.camera_overhaul.riding=骑乘
+anextratouch.configgui.menu.camera_overhaul.sound_triggered_shakes=声音触发震动
+anextratouch.configgui.menu.shoulder_surfing_additions=Shoulder Surfing 附加功能
+anextratouch.configgui.menu.shoulder_surfing_additions.third_person_positioning_and_perspective=第三人称位置与视角
+anextratouch.configgui.menu.shoulder_surfing_additions.decoupled_movement=分离式移动
+anextratouch.configgui.menu.shoulder_surfing_additions.aiming=瞄准
+anextratouch.configgui.menu.smooth_gui_loading_screen=Smooth GUI 与加载界面
+anextratouch.configgui.menu.smooth_gui_loading_screen.menu_animations=菜单动画
+anextratouch.configgui.menu.gameplay=游戏玩法
+anextratouch.configgui.menu.gameplay.grass_and_plant_trampling=草与植物踩踏
+anextratouch.configgui.menu.debug=调试
+
+# Keybindings
+
+key.anextratouch.free_look=自由视角
+key.categories.anextratouch=An Extra Touch
+
